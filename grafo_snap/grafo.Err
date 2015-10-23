@@ -1,0 +1,30 @@
+--------
+/home/alberto911_/Documents/Snap-2.4/examples/grafo/grafo.Err
+Thu Oct 22 08:11:13 2015
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'12 or 14 not a node.'], file ../../snap-core/network.h, line 740
+--------
+--------
+/home/alberto911_/Documents/Snap-2.4/examples/grafo/grafo.Err
+Thu Oct 22 18:56:14 2015
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 7 not a node.'], file ../../snap-core/network.h, line 740
+--------
+--------
+/home/alberto911_/Documents/Snap-2.4/examples/grafo/grafo.Err
+Thu Oct 22 18:59:08 2015
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 7 not a node.'], file ../../snap-core/network.h, line 740
+--------
+--------
+/home/alberto911_/Documents/Snap-2.4/examples/grafo/grafo.Err
+Thu Oct 22 19:01:11 2015
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 7 not a node.'], file ../../snap-core/network.h, line 740
+--------
+--------
+/home/alberto911_/Documents/Snap-2.4/examples/grafo/grafo.Err
+Thu Oct 22 19:02:42 2015
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 7 not a node.'], file ../../snap-core/network.h, line 740
+--------
+--------
+/home/alberto911_/Documents/Snap-2.4/examples/grafo/grafo.Err
+Thu Oct 22 19:03:30 2015
+Execution stopped: IsNode(SrcNId) && IsNode(DstNId) [Reason:'0 or 7 not a node.'], file ../../snap-core/network.h, line 740
+--------
